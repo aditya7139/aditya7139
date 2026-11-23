@@ -8,15 +8,16 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aditya7139/adityayadav)
 
-I am a **B.Tech CSE graduate from NIT Sikkim (2017–2021)** working in the **Income Tax Department**. Alongside my job, I sharpen my technical skills as a **freelancer and builder/entrepreneur**, creating practical software, data/ETL pipelines, and local automation tools[cite: 2, 3, 6].
+I am a software developer building **web applications, ETL & data screening pipelines, and local Python automation tools**.
+
+I enjoy combining clean engineering, multi-timeframe data workflows, and practical automation to turn repetitive or data-heavy tasks into fast, reliable tools[cite: 2, 3, 4].
 
 ---
 
-### 🚀 What I Build
-
-- **📊 ETL & Market Analytics:** Multi-timeframe (`1h`, `1d`, `1wk`, `1mo`) NSE technical & momentum screeners in Python (`pandas`, `pandas-ta`, `yfinance`, `openpyxl`) with runtime toggles, scoring models, and styled Excel reports[cite: 2].
-- **📦 Media & Batch Automation (`media-fdownloader`):** Asynchronous & parallel media archivers and playlist downloaders (`Telethon`, `yt-dlp`, `Streamlit`, and pure-Python PDF/HTML catalog generation) with batch range and selective index controls[cite: 2, 3, 5, 6].
-- **🌐 Web & Local Utilities:** Web dashboards, extension-based file organizers, bulk image resizers, and local/LAN file-sharing tools[cite: 2, 6].
+### 🚀 What I'm Building
+- **ETL & Market Analytics:** Multi-timeframe (`1h`, `1d`, `1wk`, `1mo`) NSE technical & momentum screeners in Python (`pandas`, `pandas-ta`, `yfinance`, `openpyxl`) with automated Excel reporting[cite: 3, 4].
+- **Media & Batch Automation:** Asynchronous & parallel media archivers and playlist downloaders (`media-fdownloader` with `Telethon`, `yt-dlp`, `Streamlit`, and pure-Python PDF/HTML catalog generation)[cite: 2, 3, 4].
+- **Web & Desktop Utilities:** Interactive web dashboards, file organizers, bulk image processors, and local network sharing tools[cite: 2, 3, 4].
 
 ---
 
@@ -33,11 +34,30 @@ I am a **B.Tech CSE graduate from NIT Sikkim (2017–2021)** working in the **In
   <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+</p>
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aditya7139&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya7139&show_icons=true&hide_border=true&layout=compact&langs_count=10&count_private=true"/>
+</p>
