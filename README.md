@@ -8,9 +8,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aditya7139/adityayadav)
 
-I am a software developer building **web applications, ETL & data screening pipelines, and local Python automation tools**.
+I am a B.Tech CSE graduate from NIT Sikkim (2017–2021) working in the Income Tax Department, and outside my primary role I actively build technical solutions as an aspiring entrepreneur. 
+As a software developer specializing in web applications, ETL & data screening pipelines, and local-first Python automation tools.
 
-I enjoy combining clean engineering, multi-timeframe data workflows, and practical automation to turn repetitive or data-heavy tasks into fast, reliable tools[cite: 2, 3, 4].
+I enjoy combining modular engineering, runtime configurability, and multi-timeframe data workflows to turn repetitive or data-heavy operations into fast, reliable tools.
 
 ---
 
